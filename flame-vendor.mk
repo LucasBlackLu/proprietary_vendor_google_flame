@@ -343,7 +343,6 @@ PRODUCT_PACKAGES += \
     CarrierSetup \
     EuiccSupportPixel \
     EuiccSupportPixelPermissions \
-    HbmSVManager \
     MyVerizonServices \
     OBDM_Permissions \
     PixelNfc \
